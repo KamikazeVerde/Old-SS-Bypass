@@ -1,1 +1,2 @@
-# TeamViewerReset
+# NOT WORKING ANYMORE 
+- DEPRECATED
